@@ -21,4 +21,7 @@ docker run -p 8000:80 gitlab/gitlab-ce
 ```bash
 http://localhost:8000/users/sign_in
 ```
+#### kichukhon wait korte hobe
+![](https://imgur.com/izVpjzA.png)
+
 ---
