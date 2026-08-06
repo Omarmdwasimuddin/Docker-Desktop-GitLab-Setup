@@ -3,5 +3,11 @@
 #### browser e search koro: gitlab docker hub ---> ba click koro: https://hub.docker.com/r/gitlab/gitlab-ce
 ![](https://imgur.com/4TIw6BX.png)
 
-####
+#### command copy koro
 ![](https://imgur.com/VxipliP.png)
+
+#### Docker Desktop er ternimal e command paste koro
+```bash
+docker pull gitlab/gitlab-ce
+```
+---
