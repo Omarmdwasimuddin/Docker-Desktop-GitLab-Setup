@@ -16,3 +16,9 @@ docker pull gitlab/gitlab-ce
 docker run -p 8000:80 gitlab/gitlab-ce
 ```
 ---
+
+#### browser e daw
+```bash
+http://localhost:8000/users/sign_in
+```
+---
