@@ -10,4 +10,6 @@
 ```bash
 docker pull gitlab/gitlab-ce
 ```
+![](https://imgur.com/AO3v7FS.png)
+
 ---
