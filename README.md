@@ -11,5 +11,8 @@
 docker pull gitlab/gitlab-ce
 ```
 ![](https://imgur.com/AO3v7FS.png)
-
+#### docker e gitlab run koro
+```bash
+docker run -p 8000:80 gitlab/gitlab-ce
+```
 ---
