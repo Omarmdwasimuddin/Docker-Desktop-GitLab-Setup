@@ -28,8 +28,11 @@ http://localhost:8000/users/sign_in
 
 #### ekhon amader lagbe Username or primary email and Password 
 ![](https://imgur.com/o1ieTTL.png)
-#### docker e new terminal open koro and command daw
+#### docker e new terminal open koro and command daw (ager terminal stop korar jabe na)
 ![](https://imgur.com/3itBEdj.png)
 ```bash
 docker ps -l
 ```
+
+#### container id copy koro
+![](https://imgur.com/V7QJUK0.png)
