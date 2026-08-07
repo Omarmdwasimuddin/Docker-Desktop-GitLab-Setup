@@ -36,3 +36,10 @@ docker ps -l
 
 #### container id copy koro
 ![](https://imgur.com/V7QJUK0.png)
+#### terminal e command koro [ei command e container id o paste kora hoyeche]
+```bash
+docker exec -it 682e19f3358c cat /etc/gitlab/initial_root_password
+```
+---
+#### password copy koro
+![](https://imgur.com/3A6UMul.png)
