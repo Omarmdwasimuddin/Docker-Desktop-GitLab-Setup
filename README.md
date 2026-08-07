@@ -25,3 +25,10 @@ http://localhost:8000/users/sign_in
 ![](https://imgur.com/izVpjzA.png)
 
 ---
+
+#### Username or primary email and Password er jonno docker e new terminal open koro and command daw
+```bash
+
+```
+![](https://imgur.com/o1ieTTL.png)
+![](https://imgur.com/3itBEdj.png)
