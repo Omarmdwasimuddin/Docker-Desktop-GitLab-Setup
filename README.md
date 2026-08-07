@@ -26,9 +26,10 @@ http://localhost:8000/users/sign_in
 
 ---
 
-#### Username or primary email and Password er jonno docker e new terminal open koro and command daw
-```bash
-
-```
+#### ekhon amader lagbe Username or primary email and Password 
 ![](https://imgur.com/o1ieTTL.png)
+#### docker e new terminal open koro and command daw
 ![](https://imgur.com/3itBEdj.png)
+```bash
+docker ps -l
+```
