@@ -46,5 +46,8 @@ docker exec -it 682e19f3358c cat /etc/gitlab/initial_root_password
 #### Username or primary email: root  daw ar Password: paste koro.
 ![](https://imgur.com/ug3rgFZ.png)
 
+#### kichu jinish setup chaite pari skip korte parbe ba set up korte parbe.
+![](https://imgur.com/C6sucA8.png)
+
 #### dashboard
 ![](https://imgur.com/UK6nPqr.png)
