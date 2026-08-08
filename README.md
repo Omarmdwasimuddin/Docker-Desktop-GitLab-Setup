@@ -110,7 +110,8 @@ docker exec -it 682e19f3358c cat /etc/gitlab/initial_root_password
 
 Login করার পর কিছু setup option দেখাবে — চাইলে সেগুলো এখনই setup করা যাবে, অথবা skip করে পরে করা যাবে।
 
-![Setup options](https://imgur.com/C6sucA8.png)
+![Setup options](https://imgur.com/qgOQ0EK.png)
+![Setup options](https://imgur.com/VjETMoG.png)
 
 ---
 
